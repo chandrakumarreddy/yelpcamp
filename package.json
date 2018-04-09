@@ -4,7 +4,7 @@
     "description": "\"A place to see your campgrounds\"",
     "main": "app.js",
     "scripts": {
-        "start": "app.js",
+        "start": "node app.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "\"chandra kumar reddy penugonda\"",
